@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    联想总部东区菜谱
+                    联想总部西区菜谱
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
